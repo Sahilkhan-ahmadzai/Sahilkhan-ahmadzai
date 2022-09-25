@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Sahilkhan-ahmadzai
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML and CSS>
+- 🌱 I’m currently learning Front-end web development technologies
 - 💞️ I’m looking to collaborate on Front-End Projects.
 - 📫 How to reach me on Twitter.
 
