@@ -10,11 +10,11 @@
 
 - 👯 I’m looking to collaborate on **on fron-end web projects**
 
-- 🤝 I’m looking for help with **dev community**
+- 🤝 I’m looking to help with **dev community**
 
 - 📫 How to reach me **sahilkhanahmadzai4@gmail.com**
 
-- ⚡ Fun fact **Web Full stack ready for new adventures😎**
+- ⚡ Fun fact **Front-end Dev ready for new adventures😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
