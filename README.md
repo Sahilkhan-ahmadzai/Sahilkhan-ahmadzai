@@ -1,5 +1,5 @@
 <h1 align="center">Hello There👋, This is Sahilkhan Ahmadzai</h1>
-<h3 align="center">Web and mobile App Developer and udergraduate Computer Science student</h3>
+<h3 align="center">Web and mobile App Developer, udergraduate Computer Science student</h3>
 <img align="right" alt="coding" width="400" src"https://www.skyrocketmedia.org/category/multimedia/animation-studios/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-codess&label=Profile%20views&color=0e75b6&style=flat" alt="Sahilkhan Ahmadzai" /> </p>
