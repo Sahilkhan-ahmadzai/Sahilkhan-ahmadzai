@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sahilkhanahmadzai4@gmail.com**
 
-- ⚡ Fun fact **Front-end Dev ready for new adventures😎**
+- ⚡ Front-end Developer ready for new adventures😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
