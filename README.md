@@ -1,6 +1,8 @@
 <h1 align="center">Hello There👋, This is Sahilkhan Ahmadzai</h1>
 <h3 align="center">Web and mobile App Developer, Udergraduate Computer Science Student</h3>
-<img align="right" alt="coding" width="400" src"https://www.skyrocketmedia.org/category/multimedia/animation-studios/">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-codess&label=Profile%20views&color=0e75b6&style=flat" alt="Sahilkhan Ahmadzai" /> </p>
 
@@ -24,8 +26,8 @@
 <h3 align="left">Tech Skills and Frameworks:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-codess&show_icons=true&locale=en&layout=compact" alt="Sahilkhan Ahmadzai" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-codess&layout=compact&theme=vision-friendly-dark" alt="Sahilkhan Ahmadzai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-codess&show_icons=true&locale=en" alt="Sahilkhan Ahmadzai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-codess&" alt="Sahilkhan Ahmadzai" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahil-codess&theme=dark&background=000000)](https://git.io/streak-stats)
