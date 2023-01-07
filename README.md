@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-codess&layout=compact&theme=vision-friendly-dark" alt="Sahilkhan Ahmadzai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-codess&show_icons=true&locale=en" alt="Sahilkhan Ahmadzai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-codess&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Sahilkhan Ahmadzai" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahil-codess&theme=dark&background=000000)](https://git.io/streak-stats)
