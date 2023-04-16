@@ -8,15 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/sahil_codess" target="blank"><img src="https://img.shields.io/twitter/follow/sahil_codess?logo=twitter&style=for-the-badge" alt="Sahilkhan Ahmadzai" /></a> </p>
 
-- 🌱 I’m currently learning **Front-end web Development & Flutter Mobile App Development**
-
 - 👯 I’m looking to collaborate on **on fron-end web projects**
 
 - 🤝 I’m looking to help with **dev community**
 
 - 📫 How to reach me **sahilkhanahmadzai4@gmail.com**
 
-- ⚡ Front-end Developer ready for new adventures😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
