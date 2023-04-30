@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahil_codess" target="blank"><img src="https://img.shields.io/twitter/follow/sahil_codess?logo=twitter&style=for-the-badge" alt="Sahilkhan Ahmadzai" /></a> </p>
 
-- 👯 I’m looking to collaborate on **on Front-end web projects**
+- 👯 I’m looking to collaborate **on Front-end web projects**
 
 - 🤝 I’m looking to collaborate with **dev community**
 
