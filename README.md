@@ -1,5 +1,5 @@
 <h1 align="center">Hello There👋, This is Sahilkhan Ahmadzai</h1>
-<h3 align="center">Web and mobile App Developer, Udergraduate Computer Science Student</h3>
+<h3 align="center">Web Developer, Bachelor of Computer Science</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
@@ -7,10 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-codess&label=Profile%20views&color=0e75b6&style=flat" alt="Sahilkhan Ahmadzai" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sahil_codess" target="blank"><img src="https://img.shields.io/twitter/follow/sahil_codess?logo=twitter&style=for-the-badge" alt="Sahilkhan Ahmadzai" /></a> </p>
-
-- 👯 I’m looking to collaborate **on Front-end web projects**
-
-- 🤝 I’m looking to collaborate with **dev community**
 
 - 📫 How to reach me **sahilkhanahmadzai4@gmail.com**
 
